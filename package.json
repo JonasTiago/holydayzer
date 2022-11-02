@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/JonasTiago/holydayzer#readme",
   "dependencies": {
+    "dayjs": "^1.11.6",
     "express": "^4.18.2"
   }
 }
